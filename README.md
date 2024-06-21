@@ -24,7 +24,7 @@ Donut charts, stacked area charts, Azure map, clustered bar chart, stacked bar c
 5. Observed peak sales in December and September, with lower sales in January and February, indicating a steady growth trend since 2019.
 6. Profit maximization occurred in March, October, and December.
 7. Office supplies were the top-selling product category, with phones being the most sought-after sub-category and furniture contribute almost equally.
-8.Top five items to contribute in the sales are Phones, chairs, binders, storage and accessories.
+8. Top five items to contribute in the sales are Phones, chairs, binders, storage and accessories.
 9. Standard Class was the preferred shipping mode, and Cash on Delivery (COD) was the favored payment method.
 10. Sales Forecasting: Leveraged historic data and applied time series analysis to generate sales forecasts for the next 15 days of January 2021.
 
