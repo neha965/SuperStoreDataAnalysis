@@ -4,14 +4,14 @@
 Utilize data analysis techniques to identify KPIs and analyze sales data, providing valuable insights and sales forecasting to inform strategic business decisions and drive overall success.
 
 # Summary of the steps performed:
-✅ Acquired Data - Data source: Excel (xlsx file) 
-✅ Cleansed and Transformed Data 
-✅ Dashboard Creation 
-✅ Data Analysis 
-✅ Employed DAX Functions 
-✅ Conducted Time Series Analysis 
-✅ Generated Sales Forecasts 
-✅ Provided Insights and Recommendations to the business 
+1. Acquired Data - Data source: Excel (xlsx file) 
+2. Cleansed and Transformed Data 
+3. Dashboard Creation 
+4. Data Analysis 
+5. Employed DAX Functions 
+6. Conducted Time Series Analysis 
+7. Generated Sales Forecasts 
+8. Provided Insights and Recommendations to the business 
 
 # Charts and KPIs used:
 Donut charts, stacked area charts, Azure map, clustered bar chart, stacked bar chart, line chart, and cards.
