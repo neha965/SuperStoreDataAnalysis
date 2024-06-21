@@ -1,4 +1,4 @@
-# SuperStoreDataAnalysis
+# Power BI Project: Superstore Sales Dashboard 📊
 
 # Objective:
 Utilize data analysis techniques to identify KPIs and analyze sales data, providing valuable insights and sales forecasting to inform strategic business decisions and drive overall success.
